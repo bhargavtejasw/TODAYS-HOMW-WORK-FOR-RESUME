@@ -1,0 +1,151 @@
+<html>
+ 
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport"
+          content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="styles.css">
+</head>
+ 
+<body>
+    <div class="full">
+        <div class="left">
+            <div class="image">
+                <img src=
+"https://media.geeksforgeeks.org/wp-content/uploads/20220202083519/gfglogo.png"  /**imagesfromgoogle/
+                     alt="gfg-logo"
+                     style="width:100px;height:100px;">
+            </div>
+            <div class="Contact">
+                <h2>Contact</h2>
+                 
+ 
+<p><b>Email id:</b>bhargav@gmail.com</p>
+ 
+ 
+ 
+                 
+ 
+<p><b>Mobile no :</b>7997230501</p>
+ 
+ 
+            </div>
+            <div class="Skills">
+                <h2>Skills</h2>
+                <ul>
+                    <li><b>Programming Languages :
+                      Python, Java, C++</b></li>
+                    <li><b>Frontend : HTML5, CSS3,
+                      JavaScript, React</b></li>
+                    <li><b>Backend : Node.js</b></li>
+                </ul>
+            </div>
+            <div class="Language">
+                <h2>Language</h2>
+                <ul>
+                    <li>English</li>
+                    <li>Hindi</li>
+                </ul>
+            </div>
+            <div class="Hobbies">
+                <h2>Hobbies</h2>
+                <ul>
+                    <li>Playing cricket</li>
+                    <li>Swimming</li>
+                </ul>
+            </div>
+        </div>
+        <div class="right">
+            <div class="name">
+                <h1>GeeksforGeeks</h1>
+            </div>
+            <div class="title">
+                 
+ 
+<p>Full stack developer</p>
+          </div>
+            <div class="Summary">
+                <h2>Summary</h2>
+                 
+ 
+<p>To secure a challenging position in a
+                  reputable organization
+                    to expand my learning knowledge and skill
+                </p>
+              </div>
+            <div class="Experience">
+                <h2>Experience</h2>
+                <h3> Sri chaitanya parayana company</h3>
+                 
+ 
+<p>January 2022 to Present</p>
+ 
+ 
+ 
+                <ul>
+                    <li>Actively engaged in web creative
+                      design and development.</li>
+                    <li>Designing project & planing</li>
+                </ul>
+                <h3>Xyz webdev pvt ltd - junior web developer</h3>
+                 
+ 
+<p>August 2021 to December 2021</p>
+ 
+ 
+ 
+                <ul>
+                    <li>Actively engaged in web creative
+                      design and development.</li>
+                    <li>Designing project & planing</li>
+                    <li>Working on designing</li>
+                </ul>
+            </div>
+            <div class="Education">
+                <h2>Education</h2>
+                <table>
+                    <tr>
+                        <th>kl university  </th>
+                        <th>2020  </th>
+                        <th>9</th>
+                    </tr>
+                    <tr>
+                        <td>Sri chaitanya parayana engineering college</td>
+                        <td>2019</td>
+                        <td>87</td>
+                    </tr>
+                    <tr>
+                        <td>Parayana </td>
+                        <td>2016</td>
+                        <td>76</td>
+                    </tr>
+                </table>
+            </div>
+            <div class="project">
+                <ul>
+                    <li>
+                        <h2>Project1</h2>
+                         
+ 
+<p>This project is very popular as e-commerce is heavily expanding with every passing day. Additionally, anyone opting for this project should keep in mind that it is all about building an internet-based application that permits customers to sign up and buy items online.</p>
+ 
+ 
+ 
+                    </li>
+                    <li>
+                        <h2>Project2</h2>
+                         
+ 
+<p>A payroll management system project can help you develop your SQL skills by calculating monthly taxes, pay, and social security of employees of a company. It is a worthwhile project because it applies to so many industries and organizations. The project should help you compute salaries with employee names, pay scales, designations, and benefits.</p>
+ 
+ 
+ 
+                    </li>
+                </ul>
+            </div>
+        </div>
+    </div>
+</body>
+ 
+</html>
